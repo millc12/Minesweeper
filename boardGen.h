@@ -12,5 +12,5 @@ public:
 	int mines[10];
 	int mtrx[10][10];
 	arr generateBoard();
-	arr flagshit(arr board);
+	arr flagshit(arr board); //change flagshit to another name before submitting project
 };
