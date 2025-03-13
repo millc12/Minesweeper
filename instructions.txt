@@ -1,0 +1,16 @@
+\033[33m**********************************************\033[35mHOW TO PLAY\033[33m***************************************************\033[37m
+------------------------------\033[36mUse the arrow keys to navigate the minefield\033[37m----------------------------------
+-------------------------------------\033[36mPress (1) to remove\add a flag\033[37m----------------------------------------- 
+-------------------------------------------\033[36mPress (2) to dig\033[37m-------------------------------------------------
+\033[33m************************************************************************************************************\033[37m
+The number that appears in a square when you dig corresponds to how many mines are surronding that square
+Your goal is to dig up all the ground where there AREN'T mines
+
+Use flags to mark where you think a mine is o.O
+There will be a display under the board showing how many flags you have left
+The number of flags = The number of mines
+
+If you hit a mine... \033[31mGAMEOVER
+\033[33m************************************************************************************************************\033[37m
+
+Press any key to start...
