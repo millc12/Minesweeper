@@ -6,4 +6,4 @@
 #include <ctime>
 #include <iomanip>
 
-void print(int b[10][10], int row, int col, int db[10][10], bool end);
+void print(arr b, int row, int col, bool end, int r, int c);
